@@ -20,7 +20,6 @@ const result = example_json.reduce((obj, item) => {
   });
   return obj;
 }, {});
-console.log(result);
 
 // <-- OUTPUT -->
 /*[
