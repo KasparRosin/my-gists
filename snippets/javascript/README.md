@@ -1,3 +1,3 @@
 # Javascript snippets
 
-### 1. [Convert array of objects into a object](array-to-objects.js)
+### 1. [Convert array of objects into a object](array-to-object.js)
