@@ -22,7 +22,9 @@ const result = example_json.reduce((obj, item) => {
 }, {});
 
 // <-- OUTPUT -->
-/*[
-    Title_1: [OBJECT],
-    Title_2: [OBJECT]
-]*/
+/*
+{
+  Title_1: { name: 'john', age: 19 },
+  Title_2: { name: 'jane', age: 26 }
+}
+*/
