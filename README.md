@@ -1,4 +1,6 @@
-### Kaspar Rosin Gists
+# Kaspar Rosin Gists
 
 
-## - [Laravel Nova](./snippets/nova)
+## Snippets
+- ### [Laravel Nova](./snippets/nova)
+- ### [Javascript](./snippets/javascript)
